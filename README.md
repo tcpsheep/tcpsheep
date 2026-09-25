@@ -1,30 +1,15 @@
-### Hi Little Cats 👋
+## About me
+
 <p align="center">
-    <b>Welcome to my page!</b><br><br>
-    <i>
-        I'm Sheep a computer science student and a networking enthusiast from Spain!<br>
-        I have a deep passion for networking and strive to learn something new about it every day.<br>
-        Advanced knowledge in antibots and web traffic<br>
-        I specialize in backend development and have little experience with front-end.<br>
-        Open to collaborating on interesting and innovative projects.<br>
-        Still learning this langs, anyways I only release code that 100% works or that I think is good enough.<br>
-        </i><br>
-        <a href="https://t.me/sheepthesillycat">
-        <img src="https://img.shields.io/badge/Telegram-blue?style=flat-square&logo=Telegram" alt="Telegram">
-        <a href="http://discordapp.com/users/660556644018683904">
-        <img src="https://img.shields.io/badge/Discord-purple?style=flat-square&logo=Discord" alt="Discord">
-    </a>
-    </i><br>
-            
----
-          
-## Contact
+  <b>Just a small intro!</b>
+</p>
 
-- Telegram: [t.me/sheepthesillycat](https://t.me/sheepthesillycat)
-- Website: [sheepyy.love](https://sheepyy.love)
-### Languages
-[![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/lilsheepyy)
-[![C](https://img.shields.io/badge/c-black?style=for-the-badge&logo=c)](https://github.com/lilsheepyy)
-[![Go](https://img.shields.io/badge/Golang-black?style=for-the-badge&logo=go)](https://github.com/lilsheepyy)
-[![C#](https://img.shields.io/badge/csharp-black?style=for-the-badge&logo=csharp)](https://github.com/lilsheepyy)
+I'm Sheep, a 19 y.o. Spanish SMR student and passionate about networking and security. I've been deeply interested in this stuff since I was 15, and with the use of AI, I've found it even more interesting.
 
+I mostly focus my research on backend, firewalls, networks, filters, DDoS, and the overall security of different environments.
+
+Most of my projects are made in Go and assisted by AI. I don't know many other languages besides Golang and basic Python, but I carefully review the AI-written Go code I use.
+
+Please don't take my GitHub as a representation of everything I've built. Most of the things I've worked on over time are kept on my PC, even though some of them have been tested by external users.
+
+And just so you know, I'm a native Spanish speaker and fluent in English.
